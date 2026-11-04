@@ -1,0 +1,7 @@
+.venv-rknn/
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+.DS_Store
